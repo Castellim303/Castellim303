@@ -1,0 +1,3 @@
+!!! This directory will be deleted when you uninstall DroidVim !!!
+!!! Please back up regularly !!!
+
